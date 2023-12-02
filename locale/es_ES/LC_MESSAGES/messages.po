@@ -23,7 +23,6 @@ msgstr "Hace %s"
 msgid "About %s"
 msgstr "Acerca de %s"
 
-# Not required
 msgid "About BlackPHP"
 msgstr "Acerca de BlackPHP"
 
@@ -39,14 +38,12 @@ msgstr "ordenar la columna de forma descendente"
 msgid "Activity description"
 msgstr "Descripción de la actividad"
 
-# Not required
 msgid "activity log"
 msgstr "registro de actividades"
 
 msgid "Activity log"
 msgstr "Registro de actividades"
 
-# Not required
 msgid "Activity log on each element for each user"
 msgstr "Registro de actividades en cada elemento, por cada usuario"
 
@@ -59,19 +56,15 @@ msgstr "Administrador"
 msgid "Administrator role"
 msgstr "Rol administrador"
 
-# Not required
 msgid "Allows to manage roles and permissions for each role"
 msgstr "Permite administrar roles y permisos para cada rol"
 
-# Not required
 msgid "Allows to set and modify optional system parameters in the company"
 msgstr "Permite establecer y modificar parámetros opcionales del sistema en la empresa"
 
-# Not required
 msgid "Allows you to configure the general information of the business/company"
 msgstr "Permite configurar la información general del negocio/empresa"
 
-# Not required
 msgid "Allows you to manage users and permissions for each user"
 msgstr "Permite gestionar usuarios y los permisos para cada usuario"
 
@@ -102,15 +95,12 @@ msgstr "Solicitud incorrecta"
 msgid "Bad user or password"
 msgstr "Usuario o contraseña incorrectos"
 
-# Not required
 msgid "Black - Lateral menu"
 msgstr "Negro - Menú lateral"
 
-# Not required
 msgid "Blue - Lateral menu"
 msgstr "Azul - Menú lateral"
 
-# Not required
 msgid "Blue - Top menu"
 msgstr "Azul - Menú superior"
 
@@ -195,7 +185,6 @@ msgstr "Eliminado el"
 msgid "Deleted by"
 msgstr "Eliminado por"
 
-# Not required
 msgid "Deleted elements"
 msgstr "Elementos eliminados"
 
@@ -226,21 +215,18 @@ msgstr "Elemento"
 msgid "Element ID"
 msgstr "ID Elemento"
 
-# Not required
 msgid "English"
 msgstr "Inglés"
 
 msgid "Enter your installer user and password"
 msgstr "Introduzca su usuario y contraseña de instalador"
 
-# Not required
 msgid "Entity"
 msgstr "Entidad"
 
 msgid "Entity data"
 msgstr "Datos de la entidad"
 
-# Not required
 msgid "entity data"
 msgstr "datos de la entidad"
 
@@ -295,7 +281,6 @@ msgstr "Dar acceso a"
 msgid "Go back"
 msgstr "Regresar"
 
-# Not required
 msgid "Green - Lateral menu"
 msgstr "Verde- Menú lateral"
 
@@ -329,7 +314,6 @@ msgstr "La instalación se completó con éxito"
 msgid "It's time to start!"
 msgstr "¡Es hora de iniciar!"
 
-# Not required
 msgid "Italian"
 msgstr "Italiano"
 
@@ -471,7 +455,6 @@ msgstr "Por favor, seleccione un tipo de elemento de la lista"
 msgid "Preferences"
 msgstr "Preferencias"
 
-# Not required
 msgid "preferences"
 msgstr "preferencias"
 
@@ -487,7 +470,6 @@ msgstr "Proporcionado a"
 msgid "Read"
 msgstr "Leer"
 
-# Not required
 msgid "role"
 msgstr "rol"
 
@@ -536,7 +518,6 @@ msgstr "Fecha del servidor"
 msgid "Session data"
 msgstr "Datos de sesión"
 
-# Not required
 msgid "Settings"
 msgstr "Configuraciones"
 
@@ -549,14 +530,12 @@ msgstr "Mostrando del 0 al 0 de 0 resultados"
 msgid "Showing _START_ to _END_ of _TOTAL_ entries"
 msgstr "Mostrando del _START_ al _END_ de _TOTAL_ resultados"
 
-# Not required
 msgid "Shows system information: Version, contact and technical support"
 msgstr "Muestra la información del sistema: Versión, contacto y soporte técnico"
 
 msgid "Slogan"
 msgstr "Eslogan"
 
-# Not required
 msgid "Spanish"
 msgstr "Español"
 
@@ -614,14 +593,12 @@ msgstr "Para comenzar, pegue el archivo de configuración en la carpeta de insta
 msgid "To keep the old password, leave the fields empty"
 msgstr "Para conservar la contrase&ntilde;a anterior, deje los campos vac&iacute;os"
 
-# Not required
 msgid "Tools"
 msgstr "Herramientas"
 
 msgid "Trash"
 msgstr "Papelera"
 
-# Not required
 msgid "trash"
 msgstr "papelera"
 
@@ -640,7 +617,6 @@ msgstr "actualizó"
 msgid "User"
 msgstr "Usuario"
 
-# Not required
 msgid "user"
 msgstr "usuario"
 
@@ -671,7 +647,6 @@ msgstr "Miércoles"
 msgid "Welcome to %s!"
 msgstr "¡Bienvenido a %s!"
 
-# Not required
 msgid "White - Without lateral menu"
 msgstr "Blanco - Sin menú lateral"
 
